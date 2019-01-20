@@ -1,0 +1,2 @@
+# belajarku.js
+belajarku
